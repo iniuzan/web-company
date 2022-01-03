@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c993e9;
+}
+.jumbotron img {
+  width: 50rem;
+}
+#Services {
+  background-color: #c993e9;
+}
+#Contact {
+  background-color: #c993e9;
+}
+footer {
+  background-color: #350352;
+  color: #fff;
+}
+
+section {
+  padding-top: 4rem;
+}
