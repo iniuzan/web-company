@@ -14,6 +14,7 @@ Website Ini dibuat dengan menggunakan Teknologi:
 - HTML
 - CSS
 - Bootstrap 5
+- AOS JS
 
 Website ini bisa di akses pada link dibawah:
 https://iniuzan.github.io/web-company/
