@@ -4,7 +4,7 @@
   "editor.fontLigatures": true,
   "editor.smoothScrolling": true,
   "editor.cursorBlinking": "expand",
-  "window.zoomLevel": -0.2,
+  "window.zoomLevel": 1.2,
   "editor.fontSize": 15,
   "editor.bracketPairColorization.enabled": true,
   "files.defaultLanguage": "${activeEditorLanguage}",
