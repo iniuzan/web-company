@@ -1,18 +1,17 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #c993e9;
+  background-color: #68e2dc;
 }
 .jumbotron img {
-  width: 50rem;
 }
 #Services {
-  background-color: #c993e9;
+  background-color: #68e2dc;
 }
 #Contact {
-  background-color: #c993e9;
+  background-color: #68e2dc;
 }
 footer {
-  background-color: #350352;
+  background-color: #68e2dc;
   color: #fff;
 }
 
